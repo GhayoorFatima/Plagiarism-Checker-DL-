@@ -12,3 +12,4 @@ fpdf2
 PyPDF2
 python-docx
 google-generativeai
+sentencepiece==0.1.99 
