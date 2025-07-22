@@ -1,0 +1,14 @@
+streamlit
+scikit-learn
+transformers
+sentencepiece
+PyPDF2
+python-docx
+torch
+google-generativeai
+fpdf
+streamlit
+fpdf2
+PyPDF2
+python-docx
+google-generativeai
